@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarjevski&label=Profile%20views&color=0e75b6&style=flat" alt="zarjevski" /> </p>
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **React, TypeScript.**
 
-- 📫 How to reach me **zarzevskivictor@gmail.com**
+- 📫 How to reach me **zarzevskivictor@gmail.com.**
 
-- ⚡ Fun fact **at my free time i do muay thai & bjj**
+- ⚡ Fun fact **at my free time i do muay thai & bjj.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
