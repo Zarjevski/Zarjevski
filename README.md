@@ -20,7 +20,6 @@
 
 <h3 align="left">:wrench: Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,figma,&theme=dark)](https://skills.thijs.gg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarjevski&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
