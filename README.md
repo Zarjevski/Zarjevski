@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **at my free time i do muay thai & bjj.**
 
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/zarjevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zarjevski" height="30" width="40" /></a>
 <a href="https://fb.com/zarjevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zarjevski" height="30" width="40" /></a>
@@ -19,12 +19,11 @@
 </p>
 
 <h3 align="center">:wrench: Tools:</h3>
-<p align="center"
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,figma,&theme=dark)](https://skills.thijs.gg)
-</p>   
-<p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarjevski&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
 
