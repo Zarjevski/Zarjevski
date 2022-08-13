@@ -12,7 +12,7 @@
 - ⚡ Fun fact **at my free time i do muay thai & bjj.**
 
 <h3>Connect with me:</h3>
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/zarjevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zarjevski" height="30" width="40" /></a>
 <a href="https://fb.com/zarjevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zarjevski" height="30" width="40" /></a>
 <a href="https://instagram.com/victor_zarjevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor_zarjevski" height="30" width="40" /></a>
