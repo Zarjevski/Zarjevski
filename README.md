@@ -1,4 +1,4 @@
-![cat](https://github.com/Zarjevski/Zarjevski/blob/main/wallpaperflare.com_wallpaper.jpg)
+![ascii](https://github.com/Zarjevski/Zarjevski/blob/main/ascii.png)
 
 <h1 align="center">Hi, I'm Victor Zarjevski</h1>
 <h3 align="center">Self taught full stack developer from israel</h3>
