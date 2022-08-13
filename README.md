@@ -21,6 +21,8 @@
 <h3 align="center">:wrench: Tools:</h3>
 <p align="center"
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,figma,&theme=dark)](https://skills.thijs.gg)
+</p>   
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarjevski&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
