@@ -18,7 +18,7 @@
 <a href="https://instagram.com/victor_zarjevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor_zarjevski" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">:wrench: Tools:</h3>
+<h3>:wrench: Tools:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,figma,&theme=dark)](https://skills.thijs.gg)
 
