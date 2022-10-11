@@ -7,9 +7,6 @@
 <p align="center"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/zarjevski?style=social"></p>
 
 - 🌱 I’m currently learning **React, TypeScript.**
-
-- 📫 How to reach me **zarzevskivictor@gmail.com.**
-
 - ⚡ Fun fact **at my free time i do muay thai & bjj.**
 
 <h3>Connect with me:</h3>
