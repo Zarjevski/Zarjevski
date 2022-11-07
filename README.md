@@ -4,7 +4,6 @@
 <h3 align="center">Self taught full stack developer from israel</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zarjevski&label=Profile%20views&color=0e75b6&style=flat" alt="zarjevski" /> </p>
-<p align="center"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/zarjevski?style=social"></p>
 
 - 🌱 I’m currently learning **React, TypeScript.**
 - ⚡ Fun fact **at my free time i do muay thai & bjj.**
