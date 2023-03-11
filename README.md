@@ -19,7 +19,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,nodejs,express,mongodb,&theme=dark)](https://skills.thijs.gg)
 
-[![Top Langs](https://https://github-readme-stats-weld-chi.vercel.app/api/top-langs/?username=Zarjevski&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
