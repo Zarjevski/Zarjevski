@@ -17,7 +17,7 @@
 
 <h3>:wrench: Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,nodejs,express,mongodb,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,nodejs,express,mongodb,docker,git,prisma,postgres,mysql&theme=dark)](https://skills.thijs.gg)
 
 
 
