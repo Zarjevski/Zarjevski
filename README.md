@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Victor Zarjevski</h1>
 <h3 align="center">Self taught full stack developer from israel</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zarjevski&label=Profile%20views&color=0e75b6&style=flat" alt="zarjevski" /> </p>
-
 - 🌱 I’m currently learning **React, TypeScript.**
 - ⚡ Fun fact **at my free time i do muay thai & bjj.**
 
@@ -17,7 +15,7 @@
 
 <h3>:wrench: Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,nodejs,express,mongodb,docker,git,prisma,postgres,mysql&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,python,mongodb,docker,git,postgres,&theme=dark)](https://skills.thijs.gg)
 
 
 
