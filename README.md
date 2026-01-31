@@ -75,7 +75,7 @@ If you want to collaborate, propose a feature, or discuss architecture decisions
 
 <p align="center">
   <a href="https://buymeacoffee.com/zarjevski" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="55" alt="Buy Me A Coffee" />
   </a>
 </p>
 
