@@ -1,9 +1,9 @@
 <!-- HERO BANNER (replace URL with your own banner image in /assets) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zarjevski/Zarjevski/main/ascii.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/Zarjevski/Zarjevski/main/banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Namaste 🙏 I’m Victor Zarjevski</h1>
+<h1 align="center">Shalom I’m Victor Zarjevski</h1>
 <h3 align="center">Full-Stack Developer • Product Execution • Israel</h3>
 
 <p align="center">
@@ -60,25 +60,6 @@
 
 <hr/>
 
-## 📊 GitHub Performance Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarjevski&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarjevski&layout=compact&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zarjevski&hide_border=true" height="170" />
-</p>
-
-<hr/>
-
-## 🧩 Featured Work
-
-<!-- Replace with your real pinned repos once you decide what you want to showcase -->
-
-<hr/>
-
 ## 🤝 Collaboration
 
 If you want to collaborate, propose a feature, or discuss architecture decisions:
@@ -93,11 +74,11 @@ If you want to collaborate, propose a feature, or discuss architecture decisions
 <h3 align="center">☕ Support My Work</h3>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://buymeacoffee.com/zarjevski" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zarjevski/Zarjevski/main/assets/support.png" alt="support-visual" />
+  <img src="https://raw.githubusercontent.com/Zarjevski/Zarjevski/main/endbanner.png" alt="pixel art" />
 </p>
