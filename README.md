@@ -1,6 +1,6 @@
 <!-- HERO BANNER (replace URL with your own banner image in /assets) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zarjevski/Zarjevski/main/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/Zarjevski/Zarjevski/main/endbanner.png" alt="pixel art" />
 </p>
 
 <h1 align="center">Shalom I’m Victor Zarjevski</h1>
@@ -79,6 +79,3 @@ If you want to collaborate, propose a feature, or discuss architecture decisions
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zarjevski/Zarjevski/main/endbanner.png" alt="pixel art" />
-</p>
